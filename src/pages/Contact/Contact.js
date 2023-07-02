@@ -34,9 +34,6 @@ function Contact() {
                 <div>
                   <p class="subhead third">
                     Send us a message.
-                    <span class="gray-text">
-                      Get our bi-weekly content updates.
-                    </span>
                   </p>
                 </div>
                 <div class="margin-30px">
@@ -50,7 +47,7 @@ function Contact() {
                           href="mailto:contact@company.com"
                           class="contact-link"
                         >
-                          contact@startui.com
+                          contact@homanity.co.in
                         </a>
                       </div>
                     </div>
@@ -60,7 +57,7 @@ function Contact() {
                       </p>
                       <div class="margin-15px">
                         <a href="tel:(123)456-789" class="contact-link">
-                          +1 345-678 00
+                          +91 90986-30635
                         </a>
                       </div>
                     </div>
@@ -77,19 +74,7 @@ function Contact() {
                 <div class="margin-30px">
                   <div class="social-wrapper">
                     <a
-                      href="https://twitter.com/"
-                      target="_blank"
-                      class="social-icon-footer w-inline-block"
-                    >
-                      <img
-                        src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbef454fc1ef_twitter.svg"
-                        loading="lazy"
-                        width="20"
-                        alt=""
-                      />
-                    </a>
-                    <a
-                      href="https://instagram.com/"
+                      href="https://www.instagram.com/_homanity/"
                       target="_blank"
                       class="social-icon-footer w-inline-block"
                     >
@@ -97,30 +82,6 @@ function Contact() {
                         src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbbf034fc1f7_instagram.svg"
                         loading="lazy"
                         width="20"
-                        alt=""
-                      />
-                    </a>
-                    <a
-                      href="https://www.slack.com/"
-                      target="_blank"
-                      class="social-icon-footer w-inline-block"
-                    >
-                      <img
-                        src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfb6ed34fc214_slack.svg"
-                        loading="lazy"
-                        width="20"
-                        alt=""
-                      />
-                    </a>
-                    <a
-                      href="https://www.dribbble.com/"
-                      target="_blank"
-                      class="social-icon-footer w-inline-block"
-                    >
-                      <img
-                        src="https://assets.website-files.com/63d8fb6b7158592f02c9f7cc/63e3b724998a04908b2dc673_github.svg"
-                        loading="lazy"
-                        width="22"
                         alt=""
                       />
                     </a>
@@ -175,22 +136,8 @@ function Contact() {
                         maxlength="256"
                         name="Contact-Phone"
                         data-name="Contact Phone"
-                        placeholder="+1 345-678"
+                        placeholder="+91 01234-56789"
                         id="Contact-Phone"
-                      />
-                    </div>
-                    <div>
-                      <p class="subhead fourth">
-                        Company<span class="gray-text"></span>
-                      </p>
-                      <input
-                        type="text"
-                        class="input w-input"
-                        maxlength="256"
-                        name="Contact-Company"
-                        data-name="Contact Company"
-                        placeholder="Add Company"
-                        id="Contact-Company"
                       />
                     </div>
                     <div id="w-node-d15efeed-5242-799c-6d90-cd6cf88e7126-85c9f7e5">
@@ -235,15 +182,15 @@ function Contact() {
               <div class="tag-top-text">
                 <div class="label-text">Reach our support team</div>
               </div>
-              <h2 class="display-2">Connect with support squad.</h2>
+              <h2 class="display-2"> Meet the team. </h2>
             </div>
             <div class="margin-50px">
-              <div class="grid-3-columns for-team">
+              <div class="grid-2-columns for-team">
                 <div class="team-wrapper-second">
                   <div class="team-photo"></div>
                   <div>
                     <p class="subhead fourth">
-                      Liam Kim, <span class="gray-text">Resolution Expert</span>
+                      Shantanu Bunker
                     </p>
                   </div>
                   <div class="margin-15px">
@@ -254,156 +201,25 @@ function Contact() {
                             href="mailto:contact@company.com"
                             class="contact-link"
                           >
-                            contact@startui.com
+                            shantanubunker.sb@gmail.com
                           </a>
                         </div>
                       </div>
                       <div>
                         <div>
                           <a href="tel:(123)456-789" class="contact-link">
-                            +1 345-678 00
+                            +91 90986-30635
                           </a>
                         </div>
                       </div>
-                    </div>
-                  </div>
-                  <div class="margin-30px">
-                    <div class="social-wrapper center">
-                      <a
-                        href="https://twitter.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbef454fc1ef_twitter.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://instagram.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbbf034fc1f7_instagram.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://www.slack.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfb6ed34fc214_slack.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://www.dribbble.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/63d8fb6b7158592f02c9f7cc/63e3b724998a04908b2dc673_github.svg"
-                          loading="lazy"
-                          width="22"
-                          alt=""
-                        />
-                      </a>
                     </div>
                   </div>
                 </div>
-                <div class="team-wrapper-second">
-                  <div class="team-photo member-2"></div>
-                  <p class="subhead fourth">
-                    Ava Rodriguez, <span class="gray-text">Solving Guru</span>
-                  </p>
-                  <div class="margin-15px">
-                    <div class="contact-details-flex vertical">
-                      <div class="contact-details">
-                        <div>
-                          <a
-                            href="mailto:contact@company.com"
-                            class="contact-link"
-                          >
-                            contact@startui.com
-                          </a>
-                        </div>
-                      </div>
-                      <div>
-                        <div>
-                          <a href="tel:(123)456-789" class="contact-link">
-                            +1 345-678 00
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="margin-30px">
-                    <div class="social-wrapper center">
-                      <a
-                        href="https://twitter.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbef454fc1ef_twitter.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://instagram.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbbf034fc1f7_instagram.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://www.slack.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfb6ed34fc214_slack.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://www.dribbble.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/63d8fb6b7158592f02c9f7cc/63e3b724998a04908b2dc673_github.svg"
-                          loading="lazy"
-                          width="22"
-                          alt=""
-                        />
-                      </a>
-                    </div>
-                  </div>
-                </div>
+                
                 <div class="team-wrapper-second">
                   <div class="team-photo member-3"></div>
                   <p class="subhead fourth">
-                    Sophia Chen,
-                    <span class="gray-text">Satisfaction Champion</span>
+                    Ayush Madhur
                   </p>
                   <div class="margin-15px">
                     <div class="contact-details-flex vertical">
@@ -413,69 +229,17 @@ function Contact() {
                             href="mailto:contact@company.com"
                             class="contact-link"
                           >
-                            contact@startui.com
+                            ayushmadhur6243@gmail.com
                           </a>
                         </div>
                       </div>
                       <div>
                         <div>
                           <a href="tel:(123)456-789" class="contact-link">
-                            +1 345-678 00
+                            +91 90681-46407
                           </a>
                         </div>
                       </div>
-                    </div>
-                  </div>
-                  <div class="margin-30px">
-                    <div class="social-wrapper center">
-                      <a
-                        href="https://twitter.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbef454fc1ef_twitter.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://instagram.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbbf034fc1f7_instagram.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://www.slack.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfb6ed34fc214_slack.svg"
-                          loading="lazy"
-                          width="20"
-                          alt=""
-                        />
-                      </a>
-                      <a
-                        href="https://www.dribbble.com/"
-                        target="_blank"
-                        class="social-icon-footer w-inline-block"
-                      >
-                        <img
-                          src="https://assets.website-files.com/63d8fb6b7158592f02c9f7cc/63e3b724998a04908b2dc673_github.svg"
-                          loading="lazy"
-                          width="22"
-                          alt=""
-                        />
-                      </a>
                     </div>
                   </div>
                 </div>
