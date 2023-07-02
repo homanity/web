@@ -3,9 +3,6 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 
 
-//import fullLogo from "../../images/logo/finonicFull.png";
-//import longLogo from "../../images/logo/findonicLogo2.png";
-
 function Navbar() {
 
   const [dopened, setDopened] = useState(false);
@@ -34,8 +31,7 @@ function Navbar() {
           class="first-element"
         >
           <Link to="/" aria-current="page" class="brand w-nav-brand w--current">
-          <h3 style={{marginTop: '10px'}}>Homenity</h3>
-            {/* <img src={longLogo} loading="lazy" width="100" alt="" /> */}
+          <h3 style={{marginTop: '10px'}}>Homanity</h3>
           </Link>
           <div class="shrink-item">
             <div class="flex-center">
@@ -177,66 +173,7 @@ function Navbar() {
           >
             Contact
           </Link>
-
-
-       
-          {/* <div
-            data-hover="true"
-            data-delay="0"
-            class="dropdown w-dropdown w--nav-dropdown-open"
-            style={{ maxWidth: "1200px" }}
-          >
-            <div
-              class="dropdown-toggle w-dropdown-toggle w--nav-dropdown-toggle-open"
-              id="w-dropdown-toggle-0"
-              aria-controls="w-dropdown-list-0"
-              aria-haspopup="menu"
-              aria-expanded="false"
-              role="button"
-              tabindex="0"
-            >
-              <div
-                class="dropdown-arrow w-icon-dropdown-toggle"
-                aria-hidden="true"
-              ></div>
-              <div>Pages</div>
-            </div>
-            <nav
-              class="dropdown-list w-dropdown-list w--nav-dropdown-list-open"
-              id="w-dropdown-list-0"
-              aria-labelledby="w-dropdown-toggle-0"
-            >
-              <a
-                href="/news"
-                class="dropdown-link w-dropdown-link"
-                tabindex="0"
-              >
-                News
-              </a>
-              <a
-                href="/plans-eccomerce"
-                class="dropdown-link w-dropdown-link"
-                tabindex="0"
-              >
-                Plans Eccomerce
-              </a>
-              <a
-                href="/legal"
-                class="dropdown-link w-dropdown-link"
-                tabindex="0"
-              >
-                Legal
-              </a>
-
-              <a
-                href="/template-info/licensing"
-                class="dropdown-link w-dropdown-link"
-                tabindex="0"
-              >
-                Licensing
-              </a>
-            </nav>
-          </div> */}
+              
         </nav>
       </div>: null }
     </div>
