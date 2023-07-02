@@ -8,10 +8,11 @@ function Hero() {
         <div class="container">
             <div class="hero-grid">
                 <div id="w-node-e8fa5a04-57fa-65ad-4cfb-d04d1d507612-d3c9f7cb" class="max-w-hero">
-                    <h1 class="display-1">
-                        Rennovate your <span class="with-marker">Dream</span>
-                        House.
-                    </h1>
+                    <h4 class="display-2">
+                        {/* Rennovate your <span class="with-marker">Dream</span>
+                        House. */}
+                        <span className='gray-text'>Unlock Peace of Mind with Our</span> Annual Maintenance Contracts <span className='gray-text'>for Electrical and Plumbing Services!</span>
+                    </h4>
                     <div class="margin-40px">
                         <p class="subhead">
                              Homenity – One stop Solution for building or renovating your homes.

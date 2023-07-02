@@ -3,7 +3,7 @@ import React from 'react'
 import Hero from './Hero/Hero'
 import Step from './Step/Step'
 import How from './How/How'
-import Download from './Download/Download'
+//import Download from './Download/Download'
 import PlanOverview from './PlanOverview/PlanOverview'
 
 function Home() {

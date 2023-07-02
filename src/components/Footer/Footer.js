@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedIn } from "@fortawesome/free-solid-svg-icons";
+//import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+//import { faLinkedIn } from "@fortawesome/free-solid-svg-icons";
 
 import linkedin from '../../images/socialIcons/linkedin2.jpg'
 import whatsapp from '../../images/socialIcons/whatsapp.jpg'
-import fullLogo from '../../images/logo/finonicFull.png'
+//import fullLogo from '../../images/logo/finonicFull.png'
 import longLogo from '../../images/logo/findonicLogo2.png'
 
 function Footer() {
@@ -69,15 +69,15 @@ function Footer() {
                         <div class="foorer-list">
                             <div class="footer-title">Social</div>
                             <div class="social-wrapper left">
-                                <a href="https://www.instagram.com/_homanity/" target="_blank" class="social-icon-footer w-inline-block">
+                                <a href="https://www.instagram.com/_homanity/" target="_blank" rel='noreferrer' class="social-icon-footer w-inline-block">
                                     <img src="https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbbf034fc1f7_instagram.svg" loading="lazy" width="20" alt=""/>
                                 </a>
                                
-                                <a href="https://www.linkedin.com/company/findonic/" target="_blank" class="social-icon-footer w-inline-block">
+                                <a href="https://www.linkedin.com/company/findonic/" target="_blank" rel='noreferrer' class="social-icon-footer w-inline-block">
                                     {/* <FontAwesomeIcon icon={faLinkedIn} /> */}
                                     <img src={linkedin}  width="22" alt=""/>
                                 </a>
-                                <a href="https://wa.me/+917870565464" target="_blank" class="social-icon-footer w-inline-block">
+                                <a href="https://wa.me/+919098630635" target="_blank" rel='noreferrer' class="social-icon-footer w-inline-block">
                                     <img src={whatsapp} width="22" alt=""/>
                                 </a>
                             </div>

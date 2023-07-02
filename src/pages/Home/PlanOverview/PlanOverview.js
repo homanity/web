@@ -16,7 +16,7 @@ function PlanOverview() {
               data-w-tab="Monthly"
               class="tab-link w-inline-block w-tab-link w--current"
             >
-              <div>Monthly biling</div>
+              <div>Biannual biling</div>
             </a>
             <a data-w-tab="Yearly" class="tab-link w-inline-block w-tab-link">
               <div>Annual billing</div>
@@ -32,9 +32,9 @@ function PlanOverview() {
                   <div class="empty-div"></div>
                   <div class="top-pricing-content">
                     <div>
-                      <h2 class="price-title">Starter Plan</h2>
+                      <h2 class="price-title">Electrical Service Plan</h2>
                       <div class="big-price">
-                        $14<span class="month-text">/mo</span>
+                      ₹ 9999
                       </div>
                       <p class="paragraph-small">
                         Perfect for small businesses and individuals looking to
@@ -59,9 +59,9 @@ function PlanOverview() {
                   </div>
                   <div class="top-pricing-content">
                     <div>
-                      <h2 class="price-title">Professional Plan</h2>
+                      <h2 class="price-title">Plumbing Service Plan</h2>
                       <div class="big-price">
-                        $34<span class="month-text">/mo</span>
+                      ₹7599
                       </div>
                       <p class="paragraph-small">
                         Ideal for growing companies and teams with advanced
@@ -86,9 +86,9 @@ function PlanOverview() {
                   </div>
                   <div class="top-pricing-content">
                     <div>
-                      <h2 class="price-title">Enterprise Plan</h2>
+                      <h2 class="price-title">Combo Subscription</h2>
                       <div class="big-price">
-                        $64<span class="month-text">/mo</span>
+                      ₹14,999
                       </div>
                       <p class="paragraph-small">
                         Best for large enterprises and organizations with
@@ -120,9 +120,9 @@ function PlanOverview() {
                   <div class="empty-div"></div>
                   <div class="top-pricing-content">
                     <div>
-                      <h2 class="price-title">Starter Plan</h2>
+                      <h2 class="price-title">Electrical Service Plan</h2>
                       <div class="big-price">
-                        $49<span class="month-text">/year</span>
+                      ₹16,499
                       </div>
                       <p class="paragraph-small">
                         Perfect for small businesses and individuals looking to
@@ -147,9 +147,9 @@ function PlanOverview() {
                   </div>
                   <div class="top-pricing-content">
                     <div>
-                      <h2 class="price-title">Professional Plan</h2>
+                      <h2 class="price-title">Plumbing Service Plan</h2>
                       <div class="big-price">
-                        $69<span class="month-text">/year</span>
+                      ₹14599
                       </div>
                       <p class="paragraph-small">
                         Ideal for growing companies and teams with advanced
@@ -174,9 +174,9 @@ function PlanOverview() {
                   </div>
                   <div class="top-pricing-content">
                     <div>
-                      <h2 class="price-title">Enterprise Plan</h2>
+                      <h2 class="price-title">Combo Subscription</h2>
                       <div class="big-price">
-                        $119<span class="month-text">/year</span>
+                      ₹29,999
                       </div>
                       <p class="paragraph-small">
                         Best for large enterprises and organizations with

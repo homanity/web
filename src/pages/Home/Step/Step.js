@@ -5,7 +5,8 @@ function Step() {
     <div className="section gray wf-section">
         <div className="container">
             <p className="subhead second">
-            We provide a full range of services,<span className="gray-text"> including architecture design, plumbing, electrical work, and carpentry.</span>
+            {/* We provide a full range of services,<span className="gray-text"> including architecture design, plumbing, electrical work, and carpentry.</span> */}
+            <span className='gray-text'>We provide</span> annual mainetenance contract <span className='gray-text'>for electrical and plumbing work</span>
             </p>
             <div className="margin-50px">
                 <div className="grid-3-columns">
@@ -43,7 +44,7 @@ function Step() {
                             </a>
                         </div>
                     </div>
-                    <div id="w-node-_056dbb84-332b-2d57-4525-d7538117a412-d3c9f7cb" data-w-id="056dbb84-332b-2d57-4525-d7538117a412" 
+                    {/* <div id="w-node-_056dbb84-332b-2d57-4525-d7538117a412-d3c9f7cb" data-w-id="056dbb84-332b-2d57-4525-d7538117a412" 
                     // style="opacity:0" 
                     className="step-box">
                         <div className="step-circle-icon third">
@@ -59,7 +60,7 @@ function Step() {
                                 <img src="https://assets.website-files.com/63d8fb6b7158592f02c9f7cc/63e24712ee3b20e4ad100a3c_next.svg" loading="lazy" alt="" className="icon-line"/>
                             </a>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
             <div className="margin-100px">

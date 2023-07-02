@@ -36,16 +36,16 @@ function Plans() {
             class="pricing-component w-tabs"
           >
             <div class="tab-menu w-tab-menu">
-              <a
-                data-w-tab="Monthly"
-                class="tab-link w-inline-block w-tab-link w--current"
-              >
-                <div>Monthly biling</div>
-              </a>
-              <a data-w-tab="Yearly" class="tab-link w-inline-block w-tab-link">
-                <div>Annual billing</div>
-              </a>
-            </div>
+            <a
+              data-w-tab="Monthly"
+              class="tab-link w-inline-block w-tab-link w--current"
+            >
+              <div>Biannual biling</div>
+            </a>
+            <a data-w-tab="Yearly" class="tab-link w-inline-block w-tab-link">
+              <div>Annual billing</div>
+            </a>
+          </div>
             <div class="pricing-tab-content w-tab-content">
               <div
                 data-w-tab="Monthly"
@@ -56,9 +56,9 @@ function Plans() {
                     <div class="empty-div"></div>
                     <div class="top-pricing-content">
                       <div>
-                        <h2 class="price-title">Starter Plan</h2>
+                        <h2 class="price-title">Electrical Service Plan</h2>
                         <div class="big-price">
-                          $14<span class="month-text">/mo</span>
+                        ₹9999
                         </div>
                         <p class="paragraph-small">
                           Perfect for small businesses and individuals looking
@@ -83,9 +83,9 @@ function Plans() {
                     </div>
                     <div class="top-pricing-content">
                       <div>
-                        <h2 class="price-title">Professional Plan</h2>
+                        <h2 class="price-title">Plumbing Service Plan</h2>
                         <div class="big-price">
-                          $34<span class="month-text">/mo</span>
+                        ₹7599
                         </div>
                         <p class="paragraph-small">
                           Ideal for growing companies and teams with advanced
@@ -110,9 +110,9 @@ function Plans() {
                     </div>
                     <div class="top-pricing-content">
                       <div>
-                        <h2 class="price-title">Enterprise Plan</h2>
+                        <h2 class="price-title">Combo Subscription</h2>
                         <div class="big-price">
-                          $64<span class="month-text">/mo</span>
+                        ₹14,999
                         </div>
                         <p class="paragraph-small">
                           Best for large enterprises and organizations with
@@ -481,15 +481,15 @@ function Plans() {
                   </div>
                 </div>
               </div>
-              <div data-w-tab="Yearly" class="pricing-tab-pane w-tab-pane">
+              <div id="Yearly" data-w-tab="Yearly" class="pricing-tab-pane w-tab-pane">
                 <div class="pricing-wrapper">
                   <div class="w-layout-grid top-pricing-grid">
                     <div class="empty-div"></div>
                     <div class="top-pricing-content">
                       <div>
-                        <h2 class="price-title">Starter Plan</h2>
+                        <h2 class="price-title">Electrical Service Plan</h2>
                         <div class="big-price">
-                          $49<span class="month-text">/year</span>
+                        ₹16,499
                         </div>
                         <p class="paragraph-small">
                           Perfect for small businesses and individuals looking
@@ -514,9 +514,9 @@ function Plans() {
                     </div>
                     <div class="top-pricing-content">
                       <div>
-                        <h2 class="price-title">Professional Plan</h2>
+                        <h2 class="price-title">Plumbing Service Plan</h2>
                         <div class="big-price">
-                          $69<span class="month-text">/year</span>
+                        ₹14,599
                         </div>
                         <p class="paragraph-small">
                           Ideal for growing companies and teams with advanced
@@ -541,9 +541,9 @@ function Plans() {
                     </div>
                     <div class="top-pricing-content">
                       <div>
-                        <h2 class="price-title">Enterprise Plan</h2>
+                        <h2 class="price-title">Combo Subscription</h2>
                         <div class="big-price">
-                          $119<span class="month-text">/year</span>
+                        ₹29,999
                         </div>
                         <p class="paragraph-small">
                           Best for large enterprises and organizations with

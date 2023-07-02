@@ -3,8 +3,8 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 
 
-import fullLogo from "../../images/logo/finonicFull.png";
-import longLogo from "../../images/logo/findonicLogo2.png";
+//import fullLogo from "../../images/logo/finonicFull.png";
+//import longLogo from "../../images/logo/findonicLogo2.png";
 
 function Navbar() {
 
@@ -104,7 +104,7 @@ function Navbar() {
             <div>Join US</div>
           </a> */}
           <a
-            href="https://wa.me/+917870565464"
+            href="https://wa.me/+919098630635"
             class="button-arrow-link hide-landscape w-inline-block"
           >
             <div class="button-label">
