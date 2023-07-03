@@ -15,7 +15,7 @@ function Hero() {
                     </h4>
                     <div class="margin-40px">
                         <p class="subhead">
-                             Homenity – One stop Solution for building or renovating your homes.
+                             Homanity – One stop Solution for best electrical and plumbing services.
  <span class="gray-text"> </span>
                         </p>
                     </div>
