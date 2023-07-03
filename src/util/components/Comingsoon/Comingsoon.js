@@ -116,7 +116,7 @@ function Comingsoon() {
           
 
           <div className="subscribe">
-            <h4>Subscribe now to get Findonic early access!</h4>
+            <h4>Subscribe now to get Homanity early access!</h4>
             <a
               href="https://docs.google.com/forms/d/e/1FAIpQLSe_EEQr7tn3GY9gN2l9M1_Ehj0pgR2N1k3nM74z_MFnNR93sQ/viewform"
               className="btn btn-danger m-1"
