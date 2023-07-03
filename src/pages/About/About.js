@@ -48,6 +48,7 @@ function About() {
       </div>
       <div class="section  wf-section">
         <div class="container">
+          
           <div class="margin-80px">
             <div class="max-w-left">
               <div class="tag-top-text">
@@ -56,11 +57,13 @@ function About() {
               <h2 class="display-2"> Meet the team. </h2>
             </div>
             <div class="margin-50px">
-              <div class="grid-3-columns for-team">
+            <div class="grid-2-columns for-team">
                 <div class="team-wrapper-second">
                   <div class="team-photo"></div>
                   <div>
-                    <p class="subhead fourth">Shantanu Bunker</p>
+                    <p class="subhead fourth">
+                      Shantanu Bunker
+                    </p>
                   </div>
                   <div class="margin-15px">
                     <div class="contact-details-flex vertical">
@@ -84,10 +87,12 @@ function About() {
                     </div>
                   </div>
                 </div>
-
+                
                 <div class="team-wrapper-second">
                   <div class="team-photo member-3"></div>
-                  <p class="subhead fourth">Ayush Madhur</p>
+                  <p class="subhead fourth">
+                    Ayush Madhur
+                  </p>
                   <div class="margin-15px">
                     <div class="contact-details-flex vertical">
                       <div class="contact-details">
@@ -113,7 +118,7 @@ function About() {
               </div>
             </div>
           </div>
-                              
+          
         </div>
       </div>
     </div>
